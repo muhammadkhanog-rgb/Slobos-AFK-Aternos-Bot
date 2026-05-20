@@ -6,13 +6,13 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Khanwarrior-ka-World.aternos.me",
+    "port": 29760,
     "version": "",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "disable": true,
     "x": 0,
     "y": 100,
     "z": 0
